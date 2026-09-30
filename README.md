@@ -7,11 +7,17 @@
 ### About Me
 🌱 🌱 Currently working as an AI Engineer at Ethara.AI, where I work on improving and evaluating AI systems.
 
-## My work involves:
+### My work involves:
 - 🧠  Contributing to SFT and RLHF workflows for Model Fine-Tuning & Alignment.
 - 🔍  Working on evaluation pipelines to assess model behavior and performance for AI Evaluation.
 - 🧪 Investigating model outputs, identifying failure patterns, and improving evaluation approaches.
 - ⚙️ Working with LLM-based systems and tools to build more reliable AI solutions.
+
+ ### Languages & Tools
+
+<p align="left"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="45" height="45"/> <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="45" height="45"/> <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="45" height="45"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="45" height="45"/> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="45" height="45"/> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45"/> </p>
+
+Focus: Machine Learning · NLP · LLMs · AI Evaluation · AI Engineering
 
 ## Let's Connect
 <p align="left"> <a href="mailto:megha.singh@eethara.ai"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> </p>
