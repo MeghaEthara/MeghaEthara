@@ -20,7 +20,7 @@
 Focus: Machine Learning · NLP · LLMs · AI Evaluation · AI Engineering
 
 ## Let's Connect
-<p align="left"> <a href="mailto:megha.singh@eethara.ai"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> </p>
+<p align="left"> <a href="mailto:megha.singh@eethara.ai"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://www.linkedin.com/in/meghasingh5634"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> </p>
 
  
 
